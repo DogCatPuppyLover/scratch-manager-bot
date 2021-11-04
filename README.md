@@ -6,7 +6,7 @@ This bot has been explicitly banned by the Scratch Team.
 ## Features
 * Easy to use
 * Lightweight
-* Open-source
+* Free and open-source (GPL 3.0)
 
 ## Installing and running the bot
 First, you need to install Python. Check if you have Python already installed by running `python version` on the command line. If you don't have it installed, you can compile it from source or install it via an [installer](https://www.python.org/).
